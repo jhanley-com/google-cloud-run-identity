@@ -3,6 +3,8 @@ https://www.jhanley.com/google-cloud-run-identity
 
 Repository for my article: Google Cloud Run - Identity
 
+https://www.jhanley.com/google-cloud-run-identity/
+
 Introduction
 
 Sometimes your Google Cloud Run app needs to communicate with or consume other services. This can be a simple as reading an object in Cloud Storage, sending an email, or connecting to a database. What identity does Cloud Run use? Can I change the identity? How do I use this identity to security my services?

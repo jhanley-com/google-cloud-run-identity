@@ -31,7 +31,7 @@ del number.tmp
 @REM - The name for the new service account
 @REM - This must match the script setup_sa.bat
 set GCP_SA_NAME=cloud-run-identity
-set GCP_SA=%GCP_SA_NAME%@%PROJECT_ID%.iam.gserviceaccount.com
+set GCP_SA=%GCP_SA_NAME%@%GCP_PROJECT_ID%.iam.gserviceaccount.com
 
 @set GCS_BUCKET_NAME=%GCP_PROJECT_ID%-cloudrun-identity
 
