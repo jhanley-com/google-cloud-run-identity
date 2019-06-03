@@ -1,5 +1,4 @@
 # google-cloud-run-identity
-https://www.jhanley.com/google-cloud-run-identity
 
 Repository for my article: Google Cloud Run - Identity
 

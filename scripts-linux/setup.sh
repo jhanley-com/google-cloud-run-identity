@@ -4,3 +4,4 @@
 . ./kms_encrypt.sh
 . ./setup_bucket.sh
 . ./build.sh
+rm env.tmp
