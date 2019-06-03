@@ -1,0 +1,9 @@
+.dockerignore
+.pylintrc
+scripts-linux
+scripts-windows
+hello.py
+Dockerfile
+*.swp
+*.bat
+*.tmp
